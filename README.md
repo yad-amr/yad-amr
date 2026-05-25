@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Amarjeet Yadav</h1>
-<h3 align="center">A Programmer and Developer who like to make Cool Things.</h3>
-
-
+<h3 align="center">i like to make cool things.</h3>
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Builder+%26+Problem+Solver;Open-Source+Enthusiast;Always+Building+Something+Cool" alt="Typing SVG" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Welcome%20to%20My%20Universe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Coding%20%E2%80%A2%20Creating%20%E2%80%A2%20Learning&descAlignY=58" />
-
+<img 
+src="https://capsule-render.vercel.app/api?type=waving&height=320&text=AMARJEET%20YADAV&fontAlign=50&fontAlignY=32&fontSize=58&desc=Development%20•%20Linux%20•%20CyberSecurity%20•%20Networking%20•%20ML&descAlign=50&descAlignY=52&animation=fadeIn&fontColor=00e5ff&color=0:050816,25:0b1026,50:111827,75:1a1b3a,100:000000"
+/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=%3E+FULL+STACK+DEVELOPMENT;Linux+Administration+%7C+Shell+Scripting+%7C+Backend+Systems;%3E+CYBERSECURITY;Network+Security+%7C+Web+Security+%7C+Threat+Analysis;%3E+COMPUTER+NETWORKS;TCP%2FIP+%7C+DNS+%7C+Routing+%7C+Firewalls;%3E+MACHINE+LEARNING;Python+%7C+Data+Analysis+%7C+AI+Applications" />
 </div>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yad-amr&label=Profile%20views&color=0e75b6&style=flat" alt="yad-amr" /> </p>
+---
 
 - 🔭 I’m currently working on [GeoDis-Mapper](https://github.com/yad-amr/GeoDis-Mapper)
 
@@ -38,12 +36,153 @@
 
 
 
-## 🚀 About Me
+
+# 🌌 Tech Universe
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="220">
+
+## 🎨 Frontend
+
+<p align="center">
+<a href="https://angular.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="55" height="55"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55" height="55"/></a>
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55" height="55"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/></a>
+</p>
+
+Angular • React  
+HTML • CSS • JS
+
+</td>
+
+<td align="center" width="220">
+
+## ⚙️ Backend
+
+<p align="center">
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55"/></a>
+<a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="55" height="55"/></a>
+<a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="55" height="55"/></a>
+<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55" height="55"/></a>
+<a href="https://kafka.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="55" height="55"/></a>
+</p>
+
+Node.js • Express  
+Spring • Kafka • Firebase
+
+</td>
+
+<td align="center" width="220">
+
+## 💻 Languages
+
+<p align="center">
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55"/></a>
+<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55"/></a>
+<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="55" height="55"/></a>
+</p>
+
+Python • Java  
+C++ • Bash
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="220">
+
+## ☁️ DevOps
+
+<p align="center">
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55" height="55"/></a>
+<a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="55" height="55"/></a>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" height="55"/></a>
+<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55" height="55"/></a>
+</p>
+
+Docker • Kubernetes  
+Linux • Git
+
+</td>
+
+<td align="center" width="220">
+
+## 🔐 CyberSecurity
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash,python" />
+</p>
+
+Network Security  
+Web Security  
+Threat Analysis  
+Pentesting
+
+</td>
+
+<td align="center" width="220">
+
+## 🌐 Networking & ML
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,tensorflow,pytorch" />
+</p>
+
+TCP/IP • DNS • Routing  
+AI • Deep Learning  
+Machine Learning
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yad-amr&theme=github-compact&hide_border=true&area=true" width="95%" />
+
+</div>
+
+
+## 📊 GitHub Analytics
+<div align="center">
+
+<img width="86%" src="https://github-readme-streak-stats.herokuapp.com/?user=yad-amr&theme=tokyonight&hide_border=true" />
+
+</div>
+
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yad-amr&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+
+
+## 📑 Theory
 
 ```yaml
 name: Amarjeet Yadav
 located_in: India 🇮🇳
-role: Full-Stack Developer
+role: DSA Development and ML
 current_focus:
   - Building scalable applications
   - Exploring AI and automation
@@ -59,100 +198,6 @@ interests:
   - Developer Tools
   - Modern Web Technologies
 ```
-
-
-# 🌌 Tech Universe
-🎨 Frontend Development
-
-<p align="center">
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="50" height="50"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-</p>
-
-
-
-⚙️ Backend & Frameworks
-
-<p align="center">
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a>
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="50" height="50"/> </a>
-</p>
-
-
-
-💻 Programming Languages
-
-<p align="center">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> </a>
-</p>
-
-
-
-☁️ DevOps & Cloud
-
-<p align="center">
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
-</p>
-
-
-🧩 Desktop & Other Technologies
-
-<p align="center">
-<a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="50" height="50"/> </a>
-</p>
-
-
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yad-amr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yad-amr&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yad-amr&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
-
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/yad-amr/output/snake.svg" alt="Snake animation" />
-
-</div>
-
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yad-amr&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
 
 
 🌐 Connect With Me
