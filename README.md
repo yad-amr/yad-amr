@@ -162,7 +162,7 @@ Machine Learning
 ## 📊 GitHub Analytics
 <div align="center">
 
-<img width="86%" src="https://github-readme-streak-stats.herokuapp.com/?user=yad-amr&theme=tokyonight&hide_border=true" />
+<img width="86%" src="https://github-readme-streak-stats.herokuapp.com/?user=yad-amr&theme=github-compact&hide_border=true" />
 
 </div>
 
@@ -171,7 +171,7 @@ Machine Learning
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yad-amr&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=yad-amr&theme=github-compact&no-frame=true&row=1&column=7" />
 
 </div>
 
