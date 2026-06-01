@@ -2,11 +2,8 @@
 <h3 align="center">i like to make cool things.</h3>
 <div align="center">
 
-<img 
-src="https://capsule-render.vercel.app/api?type=waving&height=320&text=AMARJEET%20YADAV&fontAlign=50&fontAlignY=32&fontSize=58&desc=Development%20•%20Linux%20•%20CyberSecurity%20•%20Networking%20•%20ML&descAlign=50&descAlignY=52&animation=fadeIn&fontColor=00e5ff&color=0:050816,25:0b1026,50:111827,75:1a1b3a,100:000000"
-/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=%3E+FULL+STACK+DEVELOPMENT;Linux+Administration+%7C+Shell+Scripting+%7C+Backend+Systems;%3E+CYBERSECURITY;Network+Security+%7C+Web+Security+%7C+Threat+Analysis;%3E+COMPUTER+NETWORKS;TCP%2FIP+%7C+DNS+%7C+Routing+%7C+Firewalls;%3E+MACHINE+LEARNING;Python+%7C+Data+Analysis+%7C+AI+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=%3E+FULL+STACK+DEVELOPMENT;DSA+and+CP+%7C+Linux+Administration+%7C+Shell+Scripting+%7C+Backend+Systems;%3E+CYBERSECURITY;Network+Security+%7C+Web+Security+%7C+Threat+Analysis;%3E+COMPUTER+NETWORKS;TCP%2FIP+%7C+DNS+%7C+Routing+%7C+Firewalls;%3E+MACHINE+LEARNING;Python+%7C+Data+Analysis+%7C+AI+Applications" />
 </div>
 
 ---
