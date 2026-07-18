@@ -3,7 +3,7 @@
 <div align="center">
 
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=%3E+FULL+STACK+DEVELOPMENT;DSA+and+CP+%7C+Linux+Administration+%7C+Shell+Scripting+%7C+Backend+Systems;%3E+CYBERSECURITY;Network+Security+%7C+Web+Security+%7C+Threat+Analysis;%3E+COMPUTER+NETWORKS;TCP%2FIP+%7C+DNS+%7C+Routing+%7C+Firewalls;%3E+MACHINE+LEARNING;Python+%7C+Data+Analysis+%7C+AI+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=%3E+DEVELOPMENT;DSA+and+CP+%7C+Linux+Administration+%7C+Shell+Scripting+%7C+Backend+Systems;%3E+Network+Security+%7C+Web+Security;%3E+COMPUTER+NETWORKS;TCP%2FIP;" />
 </div>
 
 ---
@@ -28,120 +28,6 @@
 
 <div align="center">
 
-
-</div>
-
-
-
-
-# 🌌 Tech Universe
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="220">
-
-## 🎨 Frontend
-
-<p align="center">
-<a href="https://angular.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="55" height="55"/></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55" height="55"/></a>
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55" height="55"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/></a>
-</p>
-
-Angular • React  
-HTML • CSS • JS
-
-</td>
-
-<td align="center" width="220">
-
-## ⚙️ Backend
-
-<p align="center">
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55"/></a>
-<a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="55" height="55"/></a>
-<a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="55" height="55"/></a>
-<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55" height="55"/></a>
-<a href="https://kafka.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="55" height="55"/></a>
-</p>
-
-Node.js • Express  
-Spring • Kafka • Firebase
-
-</td>
-
-<td align="center" width="220">
-
-## 💻 Languages
-
-<p align="center">
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55"/></a>
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55"/></a>
-<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="55" height="55"/></a>
-</p>
-
-Python • Java  
-C++ • Bash
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="220">
-
-## ☁️ DevOps
-
-<p align="center">
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55" height="55"/></a>
-<a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="55" height="55"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" height="55"/></a>
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55" height="55"/></a>
-</p>
-
-Docker • Kubernetes  
-Linux • Git
-
-</td>
-
-<td align="center" width="220">
-
-## 🔐 CyberSecurity
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash,python" />
-</p>
-
-Network Security  
-Web Security  
-Threat Analysis  
-Pentesting
-
-</td>
-
-<td align="center" width="220">
-
-## 🌐 Networking & ML
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,tensorflow,pytorch" />
-</p>
-
-TCP/IP • DNS • Routing  
-AI • Deep Learning  
-Machine Learning
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
