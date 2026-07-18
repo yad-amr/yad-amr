@@ -60,28 +60,6 @@
 
 
 
-## 📑 Theory
-
-```yaml
-name: Amarjeet Yadav
-located_in: India 🇮🇳
-role: DSA Development and ML
-current_focus:
-  - Building scalable applications
-  - Exploring AI and automation
-  - Creating impactful products
-learning:
-  - System Design
-  - AI Agents
-  - Cloud Infrastructure
-  - Computer Networking
-interests:
-  - Open Source
-  - Backend Engineering
-  - Developer Tools
-  - Modern Web Technologies
-```
-
 
 🌐 Connect With Me
 
@@ -95,9 +73,6 @@ interests:
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://yourportfolio.com](https://github.com/yad-amr/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
 
 </div>
 
