@@ -10,9 +10,7 @@
 
 - 🔭 I’m currently working on [GeoDis-Mapper](https://github.com/yad-amr/GeoDis-Mapper)
 
-- 🌱 I’m currently learning **DSA (C++),Automation Systems ML & LLMs**
-
-- 👯 I’m looking to collaborate on [SmartForm AI](https://github.com/yad-amr/SmartForm-AI)
+- 🌱 I’m currently learning **DSA (C++),Native Developments(C#) WPF**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yad-amr](https://github.com/yad-amr)
 
