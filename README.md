@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amarjeet Yadav</h1>
+<h1 align="center">Hey there, I'm Amarjeet Yadav</h1>
 <h3 align="center">i like to make cool things.</h3>
 <div align="center">
 
@@ -8,13 +8,13 @@
 
 ---
 
-- 🔭 I’m currently working on [GeoDis-Mapper](https://github.com/yad-amr/GeoDis-Mapper)
+-  I’m currently working on [GeoDis-Mapper](https://github.com/yad-amr/GeoDis-Mapper)
 
-- 🌱 I’m currently learning **DSA (C++),Native Developments(C#) WPF**
+-  I’m currently learning **DSA (C++),Native Developments(C#) WPF**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yad-amr](https://github.com/yad-amr)
+-  All of my projects are available at [https://github.com/yad-amr](https://github.com/yad-amr)
 
-- 📫 How to reach me **amarjeetyadav0412@gmail.com**
+-  How to reach me **amarjeetyadav0412@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
